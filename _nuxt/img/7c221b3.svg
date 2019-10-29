@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="234" height="684">
+    <defs>
+        <linearGradient id="a" x1="70.711%" x2="0%" y1="70.711%" y2="0%">
+            <stop offset="0%" stop-color="#15295A"/>
+            <stop offset="18%" stop-color="#162B5E"/>
+            <stop offset="100%" stop-color="#172D61"/>
+        </linearGradient>
+        <linearGradient id="b" x1="70.711%" x2="0%" y1="70.711%" y2="0%">
+            <stop offset="0%" stop-color="#1E3A7F"/>
+            <stop offset="100%" stop-color="#0B152E"/>
+        </linearGradient>
+        <linearGradient id="c" x1="70.711%" x2="0%" y1="70.711%" y2="0%">
+            <stop offset="0%" stop-color="#0D93D1"/>
+            <stop offset="100%" stop-color="#85E7FF"/>
+        </linearGradient>
+    </defs>
+    <path fill="#070E1E" fill-rule="evenodd" d="M153.906 356h21v320h-21V356z"/>
+    <path fill="#070E1E" fill-rule="evenodd" d="M233.84 276.026l-79.938 79.776 20.592 35.6 59.508-59.667-.162-55.709z"/>
+    <path fill="#142755" fill-rule="evenodd" d="M73.844 160h21v524h-21V160z"/>
+    <path fill="url(#a)" d="M73.844 160h21v524h-21V160z"/>
+    <path fill="#1C3575" fill-rule="evenodd" d="M233.969 0L73.843 159.802l20.592 35.6L233.969 55.495V0z"/>
+    <path fill="url(#b)" d="M233.969 0L73.843 159.802l20.592 35.6L233.969 55.495V0z"/>
+    <path fill="#10B3FF" fill-rule="evenodd" d="M.812 331h30.001v345H.812V331z"/>
+    <path fill="url(#c)" d="M.812 331h30.001v345H.812V331z"/>
+    <path fill="#10B3FF" fill-rule="evenodd" d="M233.969 98L.505 331.247l30.022 51.961L233.969 179V98z"/>
+    <path fill="url(#c)" d="M233.969 98L.505 331.247l30.022 51.961L233.969 179V98z"/>
+    <path fill="#0A74A5" fill-rule="evenodd" d="M141.501 228.388l-1.139 7.899-.091-.01-2.894 20.073-4.928-8.552 1.756-12.175-9.35-1.007-4.927-8.553 15.415 1.661.018-.119 6.066.654-.017.119.091.01zm-21.666-2.326l.001-.009.007.001-.008.008zm17.526 30.398l-.002.009-.007-.001.009-.008z"/>
+    <path fill="#0A74A5" fill-rule="evenodd" d="M126.864 243.107l-1.139 7.899-.092-.01-2.894 20.073-4.927-8.553 1.755-12.174-9.35-1.007-4.927-8.553 15.416 1.661.017-.119 6.066.654-.017.119.092.01zm-21.667-2.325l.002-.01.007.001-.009.009zm17.526 30.397l-.001.009-.007-.001.008-.008z" opacity=".702"/>
+    <path fill="#0A74A5" fill-rule="evenodd" d="M112.226 257.826l-1.139 7.899-.091-.01-2.894 20.073-4.928-8.553 1.756-12.174-9.35-1.007-4.927-8.553 15.416 1.661.017-.119 6.066.654-.017.119.091.01zm-21.666-2.325l.001-.01.007.001-.008.009zm17.526 30.397l-.001.009-.007-.001.008-.008z" opacity=".502"/>
+</svg>

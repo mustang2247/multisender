@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+<font id="MultiSender Icons" horiz-adv-x="1000" >
+<font-face font-family="MultiSender Icons" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="mdi-github-circle" unicode="&#xf2a4;" d="M500 767c-230 0-417-187-417-417 0-184 120-340 285-396 21-3 28 10 28 21 0 10 0 36 0 70-116-25-140 56-140 56-19 49-46 62-46 62-38 25 3 25 3 25 41-3 63-43 63-43 37-64 98-45 122-35 3 27 14 45 26 56-93 10-190 46-190 205 0 46 16 83 43 113-4 10-19 54 4 110 0 0 35 11 115-43 33 9 69 14 104 14 35 0 71-5 104-14 80 54 115 43 115 43 23-56 8-100 4-110 27-30 43-67 43-113 0-159-98-194-191-205 15-13 29-38 29-77 0-56 0-101 0-114 0-11 7-25 28-21 166 56 285 212 285 396 0 230-187 417-417 417z" horiz-adv-x="1000" />
+
+<glyph glyph-name="mdi-magnify" unicode="&#xf349;" d="M846 8c-13-12-38-12-50 0l-138 134c-58-46-129-71-204-71-179 0-325 146-325 325s146 325 325 325 325-146 325-325c0-79-29-150-71-204l134-134c16-16 16-37 4-50z m-392 642c-141 0-254-112-254-254 0-142 113-254 254-254 142 0 254 112 254 254 0 142-112 254-254 254z" horiz-adv-x="1000" />
+
+<glyph glyph-name="mdi-telegram" unicode="&#xf501;" d="M408 73l11 176 320 289c14 12-3 19-21 7l-395-249-171 54c-37 10-37 36 8 54l665 257c31 14 60-8 48-54l-113-534c-8-38-31-47-62-30l-173 128-83-81c-9-9-17-17-34-17z" horiz-adv-x="1000" />
+
+<glyph glyph-name="mdi-upload" unicode="&#xf552;" d="M375 183v250h-167l292 292 292-292h-167v-250h-250m-167-166v83h584v-83h-584z" horiz-adv-x="1000" />
+
+<glyph glyph-name="mdi-arrow-collapse" unicode="&#xf615;" d="M871 38l-188 187h150v83h-291v-291h83v150l188-188 58 59m-413 645h-83v-150l-187 188-59-58 188-188h-150v-83h291v291z" horiz-adv-x="1000" />
+
+<glyph glyph-name="mdi-arrow-expand" unicode="&#xf616;" d="M125 433h83v150l188-187 58 58-187 188h150v83h-292v-292m421-187l187-188h-150v-83h292v292h-83v-150l-188 187-58-58z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
